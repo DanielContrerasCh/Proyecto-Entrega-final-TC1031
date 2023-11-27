@@ -4,6 +4,8 @@ Daniel Contreras Chávez A01710608
 ## Enlace de los videos
 https://drive.google.com/drive/folders/17cPKdWCWrrnNSmbplhe1AcWV_0VxrL6J?usp=sharing
 
+## Descripción del proyecto
+
 El proyecto va a consistir de un sistema de reservación de vuelos, los cuales van a estar almacenados y listados en un archivo csv, el usuario podrá ingresar su ciudad de salida y además filtrar dichos vuelos por precio.
 Para lograr esto se utilizarán:
 - Vectores
